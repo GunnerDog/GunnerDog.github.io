@@ -3,6 +3,11 @@
 * secondary color: navey-blue
 */
 
+body{
+  background-color: red;
+}
+ 
+
 h1 {
   color: teal;
   font-family: font-family: 'Indie Flower', cursive;
