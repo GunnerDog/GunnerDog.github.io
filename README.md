@@ -1,5 +1,7 @@
 # GunnerDog.github.io
 skywatcher.tech
+## Bio
+I am a student
 
 ## Style Tile 
 ### colors
