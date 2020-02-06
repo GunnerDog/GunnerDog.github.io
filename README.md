@@ -1,7 +1,7 @@
 # GunnerDog.github.io
 skywatcher.tech
 ## Bio
-I am a student
+I am a student at EWU and also the youngest and only daughter in my family of five. 
 
 ## Style Tile 
 ### colors
