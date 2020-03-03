@@ -23,6 +23,7 @@ img {
   margin: .5em;
   shape-outside: circle(50%); 
   width: 100px;
+  position:absolute;
 }
 /* Typograph
 * Primary font:font-family: 'Indie Flower', cursive 
