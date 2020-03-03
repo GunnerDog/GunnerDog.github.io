@@ -16,6 +16,7 @@ h1 {
 
 p{
   color: black;
+  font-family:'Indie Flower', cursive
 }
 img {
   border-radius: 50%;
@@ -24,6 +25,10 @@ img {
   shape-outside: circle(50%); 
   width: 300px;
   position:absolute;
+}
+ol{
+  color: black;
+  font-family:'Indie Flower', cursive
 }
 /* Typograph
 * Primary font:font-family: 'Indie Flower', cursive 
