@@ -9,13 +9,13 @@ body{
  
 
 h1 {
-  color: black;
+  color: navy;
   font-family: font-family: 'Indie Flower', cursive;
   font-size: 48-px;
 }
 
 p{
-  color: whitesmoke;
+  color: black;
 }
 img {
   border-radius: 50%;
