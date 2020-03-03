@@ -22,7 +22,7 @@ img {
   float: left;
   margin: .5em;
   shape-outside: circle(50%); 
-  
+  width: 100px;
 }
 /* Typograph
 * Primary font:font-family: 'Indie Flower', cursive 
