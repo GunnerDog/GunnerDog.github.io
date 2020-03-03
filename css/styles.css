@@ -24,7 +24,7 @@ img {
   margin:.5em;
   shape-outside:circle(50%); 
   width:200px;
-  position:;
+  
 }
 ol{
   color: black;
@@ -32,4 +32,4 @@ ol{
 }
 /* Typograph
 * Primary font:font-family: 'Indie Flower', cursive 
-* secondary font: font-family: 'Comfortaa', cursive;
+* secondary font: font-family: 'Comfortaa', cursive;/
