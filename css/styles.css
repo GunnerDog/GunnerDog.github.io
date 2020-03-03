@@ -10,13 +10,13 @@ body{
 
 h1 {
   color: navy;
-  font-family: 'Comfortaa', cursive;
+  font-family: 'Indie Flower', cursive 
   font-size: 48px;
 }
 
 p{
   color: black;
-  font-family:'Indie Flower', cursive
+  font-family: 'Assistant', sans-serif;
 }
 img {
   border-radius: 50%;
@@ -28,8 +28,8 @@ img {
 }
 ol{
   color: black;
-  font-family:'Indie Flower', cursive
+  font-family: 'Assistant', sans-serif;
 }
 /* Typograph
 * Primary font:font-family: 'Indie Flower', cursive 
-* secondary font: font-family: 'Comfortaa', cursive;/
+* secondary font: font-family: 'Assistant', sans-serif;
