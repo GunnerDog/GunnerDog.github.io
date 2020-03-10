@@ -30,6 +30,18 @@ ol{
   color: black;
   font-family:'Indie Flower', cursive
 }
+figure{
+width:300px
+}
+figcaption{
+column-count: 2;
+column-width:100px;
+}
+main{
+display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr;
+grid-gap: 8px;
+}
 /* Typograph
 * Primary font:font-family: 'Indie Flower', cursive 
 * secondary font: font-family: 'Comfortaa', cursive;/
