@@ -16,17 +16,7 @@ h1 {
 
 p{
   color: black;
-  font-family:'Indie Flower', cursive;
-  
-  figcaption{
-    column-count: 2;
-    column-width:100px;
-  }
-  main{
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-gap: 8px;
-  }
+  font-family:'Indie Flower', cursive
 }
 img {
   border-radius: 50%;
