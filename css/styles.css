@@ -16,7 +16,8 @@ h1 {
 
 p{
   color: black;
-  font-family:'Indie Flower', cursive
+  font-family:'Indie Flower', cursive;
+  padding: 400in;
 }
 img {
   border-radius: 50%;
